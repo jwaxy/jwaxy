@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on some small projects.
-- 🌱 I’m currently learning nothing but it can be nodejs or c.
+- 🌱 I’m currently learning JavaScript.
 
 ### My Stats
 
